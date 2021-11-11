@@ -1,0 +1,10 @@
+a = int(input('整数a：10'))
+b = int(input('整数b：2'))
+
+print('a + b は{}です。'.format(a + b))
+print('a - b は{}です。'.format(a - b))
+print('a * b は{}です。'.format(a * b))
+print('a / b は{}です。'.format(a / b))
+print('a // b は{}です。'.format(a // b))
+print('a % b は{}です。'.format(a % b))
+print('a ** b は{}です。'.format(a ** b))
